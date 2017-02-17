@@ -8,8 +8,8 @@
 #include <SPI.h>    // Required for Ethernet
 
 /* Additional Libraries in ../libs */
-#include <Time.h>   // git://github.com/PaulStoffregen/Time
-
+#include <Time.h>       // git://github.com/PaulStoffregen/Time
+#include <Ethernet2.h>  // git://github.com/adafruit/Ethernet2
 #define LED13 13
 
 void setup() {
