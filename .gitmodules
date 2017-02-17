@@ -1,0 +1,9 @@
+[submodule "tools/Arduino-Makefile"]
+	path = tools/Arduino-Makefile
+	url = git://github.com/sudar/Arduino-Makefile
+[submodule "libs/DS3232RTC"]
+	path = libs/DS3232RTC
+	url = git://github.com/JChristensen/DS3232RTC.git
+[submodule "libs/Time"]
+	path = libs/Time
+	url = https://github.com/PaulStoffregen/Time
